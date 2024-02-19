@@ -19,7 +19,7 @@
     4. 「延续到大学本科」≻ 👉 [「手写书籍」数字化工程](https://gitee.com/ChenZhu-Xie/3_books_with_cpp)
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/7_books_waiting_to_be_digitalized.jpg "7 本「等待被数字化」的书") -->
-![fig](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/raw/master/img/7_books_waiting_to_be_digitalized.jpg "7 本「等待被数字化」的书")d
+![fig](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/raw/master/img/7_books_waiting_to_be_digitalized.jpg "7 本「等待被数字化」的书")
 
 ## 历史
 * 该项目 👉 [高中的个人活动](https://gitee.com/ChenZhu-Xie/senior-high-school_activities)
