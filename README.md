@@ -1,30 +1,32 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/index.png "『Home/Main entrance』page")
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/logo.jpg "Back of a high school graduation「T-shirt」：「ETP project」logo")
 
-# Static webpages (Crack password :point_right: log in Xanadu)
+# 「Personal activities」during「senior high school」
 
 ## About
-* This project 👉 [offline web_pages](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B) is a series of static personal webpages I created at the age of 16.
+* This repo 👉 [「Personal activities」during「senior high school」](https://gitee.com/ChenZhu-Xie/senior-high-school_activities)
+    * Contains project ⊃ 👉 [offline personal web_pages](https://gitee.com/ChenZhu-Xie/offline_web_pages)
+    * Contains project ⊃ 👉 [rulesmd.ini](https://gitee.com/ChenZhu-Xie/rulesmd.ini)
+    * Contains project ⊋ 👉 [3D-printed ETP_logo](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/10__5.1__Off-Campus_Internships/1__3.1__%E6%B2%88%E5%8C%97%E6%96%B0%E5%8C%BA__1.5_year)
+        * Subseteq project ⊂ 👉 [undergraduate_activities](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
+    * Contains project ⊋ 👉 [「Handwritten Book」Digitization Project](https://gitee.com/ChenZhu-Xie/3_books_with_cpp)
 
 ## Description
-* Computer course assignment during high school.
-* Old technology stack: **FrontPage**.
-    * Limited to the time and technology at that time, the effect may be unsatisfactory
-    * But in terms of ideas, there are bi-directional links, puzzle solving/decryption, modifying game files, space exploration, hand-picked background music, etc. All of this constitutes the exploration, shouting, and wandering of that personal period.
+* This repository can be seen as a collection directory (hub/timeline tag) of a series of repos or their subdirectories, storing some of my "free will" from the ages of 16 to 18, which are「described in detail」in other repositories, and some are「extended to the undergraduate stage」.
+    1. 「described in detail」⊂ 👉 [offline personal web_pages](https://gitee.com/ChenZhu-Xie/offline_web_pages)
+    2. 「described in detail」⊂ 👉 [rulesmd.ini](https://gitee.com/ChenZhu-Xie/rulesmd.ini)
+    3. 「extended to the undergraduate stage」≻ 👉 [3D-printed ETP_logo](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/10__5.1__Off-Campus_Internships/1__3.1__%E6%B2%88%E5%8C%97%E6%96%B0%E5%8C%BA__1.5_year)
+        * Subseteq project ⊂ 👉 [undergraduate_activities](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
+    4. 「extended to the undergraduate stage」≻ 👉 [「Handwritten Book」Digitization Project](https://gitee.com/ChenZhu-Xie/3_books_with_cpp)
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/entrance.png "『Portal/Hidden entrance』page")
-
-## Inplementation
-1. Enter homepage from "Homepage (My Mini Website Portal). lnk".  
-2. Explore freely :point_right: until you decrypt the password :point_right: and unlock the hidden webpages.
-    * Solve the riddle! Or you'll be stuck here: in the middle of nowhere forever!
-3. PS: Due to its age (2014_05), page music may not be playable,  
-    * and the background image size cannot adapt to the browser window size.
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/7_books_waiting_to_be_digitalized.jpg "7 books「waiting to be digitized」")
 
 ## History
-* This project 👉 [offline personal web_pages](https://github.com/ChenZhu-Xie/1A2B_3C_4A5B) was built
-    * (Personal time) by 16-year-old little Xie
+* This repo 👉 [「Personal activities」during「senior high school」](https://gitee.com/ChenZhu-Xie/senior-high-school_activities) was built
+    * (Personal time) by 16~18-year-old little Xie
     * (Personal stage) during high school
-    * (World time) in 2014
+    * (World time) in 2013~2016
+
+
 
 <!-- ## Software Architecture
 Software architecture description
