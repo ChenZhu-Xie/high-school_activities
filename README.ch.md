@@ -18,8 +18,8 @@
     3. 「延续到大学本科」≻ 👉 [本科活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)「子目录」[3D 打印 ETP_logo](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/10__5.1__Off-Campus_Internships/1__3.1__%E6%B2%88%E5%8C%97%E6%96%B0%E5%8C%BA__1.5_year)
     4. 「延续到大学本科」≻ 👉 [「手写书籍」数字化工程](https://gitee.com/ChenZhu-Xie/3_books_with_cpp)
 
-<!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/7_books.jpg "7 本「等待被数字化」的书") -->
-![fig](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/raw/master/img/7_books.jpg "7 本「等待被数字化」的书")
+<!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/7_books_waiting_to_be_digitalized.jpg "7 本「等待被数字化」的书") -->
+![fig](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/raw/master/img/7_books_waiting_to_be_digitalized.jpg "7 本「等待被数字化」的书")
 
 ## 历史
 * 该项目 👉 [高中的个人活动](https://gitee.com/ChenZhu-Xie/senior-high-school_activities)
