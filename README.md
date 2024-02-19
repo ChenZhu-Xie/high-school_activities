@@ -7,16 +7,16 @@
     * Contains project ⊃ 👉 [offline personal web_pages](https://github.com/ChenZhu-Xie/offline_web_pages)
     * Contains project ⊃ 👉 [rulesmd.ini](https://github.com/ChenZhu-Xie/rulesmd.ini)
     * Contains project ⊋ 👉 [3D-printed ETP_logo](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/10__5.1__Off-Campus_Internships/1__3.1__%E6%B2%88%E5%8C%97%E6%96%B0%E5%8C%BA__1.5_year)
-        * Subseteq project ⊂ 👉 [undergraduate_activities](https://github.com/ChenZhu-Xie/undergraduate_activities)
+        * Subseteq project ⊂ 👉 [undergraduate activities](https://github.com/ChenZhu-Xie/undergraduate_activities)
     * Contains project ⊋ 👉[「Handwritten Book」Digitization Project](https://github.com/ChenZhu-Xie/3_books_with_cpp)
-* 中文「自述文档」㊥ 👉 [高中·个人活动](https://gitee.com/ChenZhu-Xie/senior-high-school_activities)
+* 中文「自述文档」㊥ 👉 [高中 活动](https://gitee.com/ChenZhu-Xie/senior-high-school_activities)
 
 ## Description
 * This repository can be seen as a collection directory (hub/timeline tag) of a series of repos or their subdirectories, storing some of my "free will" from the ages of 16 to 18, which are「described in detail」in other repositories, and some are「extended to the undergraduate stage」.
     1. 「described in detail」⊂ 👉 [offline personal web_pages](https://github.com/ChenZhu-Xie/offline_web_pages)
     2. 「described in detail」⊂ 👉 [rulesmd.ini](https://github.com/ChenZhu-Xie/rulesmd.ini)
     3. 「extended to the undergraduate stage」≻ 👉 [3D-printed ETP_logo](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/10__5.1__Off-Campus_Internships/1__3.1__%E6%B2%88%E5%8C%97%E6%96%B0%E5%8C%BA__1.5_year)
-        * Subseteq project ⊂ 👉 [undergraduate_activities](https://github.com/ChenZhu-Xie/undergraduate_activities)
+        * Subseteq project ⊂ 👉 [undergraduate activities](https://github.com/ChenZhu-Xie/undergraduate_activities)
     4. 「extended to the undergraduate stage」≻👉 [「Handwritten Book」Digitization Project](https://github.com/ChenZhu-Xie/3_books_with_cpp)
 
 ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/7_books_waiting_to_be_digitalized.jpg "7 books「waiting to be digitized」")
