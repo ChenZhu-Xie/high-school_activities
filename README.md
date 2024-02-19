@@ -3,7 +3,7 @@
 # 「Personal activities」during「senior high school」
 
 ## About
-* This repo 👉 [「Personal activities」during「senior high school」](https://github.com/ChenZhu-Xie/senior-high-school_activities)
+* This repo 👉[「Personal activities」during「senior high school」](https://github.com/ChenZhu-Xie/senior-high-school_activities)
     * Contains project ⊃ 👉 [offline personal web_pages](https://github.com/ChenZhu-Xie/offline_web_pages)
     * Contains project ⊃ 👉 [rulesmd.ini](https://github.com/ChenZhu-Xie/rulesmd.ini)
     * Contains project ⊋ 👉 [3D-printed ETP_logo](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/10__5.1__Off-Campus_Internships/1__3.1__%E6%B2%88%E5%8C%97%E6%96%B0%E5%8C%BA__1.5_year)
