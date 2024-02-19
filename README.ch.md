@@ -12,7 +12,7 @@
     * 包含项目 ⊋ 👉 [「手写书籍」数字化工程](https://gitee.com/ChenZhu-Xie/3_books_with_cpp)
 
 ## 介绍
-* 该仓库，可视为一系列 repos 或其子目录的集合目录（中转站/时间线 Tag），储存了 15~18 岁的我 的一些「自由意志」，这些思想活动「在另一些库中」被「详细描述」，并且有些「延续到大学本科」阶段。
+* 该仓库，可视为一系列 repos 或其子目录的集合目录（中转站/时间线 Tag），储存了 16~18 岁的我 的一些「自由意志」，这些思想活动「在另一些库中」被「详细描述」，并且有些「延续到大学本科」阶段。
     1. 「详细描述」⊂ 👉 [脱机网页们](https://gitee.com/ChenZhu-Xie/offline_web_pages)
     2. 「详细描述」⊂ 👉 [rulesmd.ini](https://gitee.com/ChenZhu-Xie/rulesmd.ini)
     3. 「延续到大学本科」≻ 👉 [本科活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)「子目录」[3D 打印 ETP_logo](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/10__5.1__Off-Campus_Internships/1__3.1__%E6%B2%88%E5%8C%97%E6%96%B0%E5%8C%BA__1.5_year)
@@ -23,9 +23,9 @@
 
 ## 历史
 * 该项目 👉 [高中的个人活动](https://gitee.com/ChenZhu-Xie/senior-high-school_activities)
-    * （个人时间）由 15~18 岁小谢
+    * （个人时间）由 16~18 岁小谢
     * （世界时间）在 2013~2016 年的 
-    * （个人阶段）高中时期 搭建
+    * （个人阶段）高中时期 构建
 
 <!-- ## 软件架构
 软件架构说明
