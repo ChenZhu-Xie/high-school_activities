@@ -1,31 +1,30 @@
-<!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/index.png "『主入口』页面") -->
-![fig](https://gitee.com/ChenZhu-Xie/offline_web_pages/raw/master/img/index.png "『主入口』页面")
+<!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/logo.png "『主入口』页面") -->
+![fig](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/raw/master/img/logo.png "高中毕业「T-shirt」背面：「ETP project」logo")
 
-# 静态 个人网页 (解谜密码 :point_right: 登陆 世外桃源)
+# 高中的个人活动
 
 ## 关于
-* 该项目 👉 [脱机网页们](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B) 是 16 岁的我 做的 静态个人网页（集）
+* 该仓库 👉 [高中的个人活动](https://gitee.com/ChenZhu-Xie/senior-high-school_activities)
+    * 包含项目 ⊃ 👉 [脱机网页们](https://gitee.com/ChenZhu-Xie/offline_web_pages)
+    * 包含项目 ⊃ 👉 [rulesmd.ini](https://gitee.com/ChenZhu-Xie/rulesmd.ini)
+    * 包含项目 ⊋ 👉 [3D 打印 ETP_logo](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/10__5.1__Off-Campus_Internships/1__3.1__%E6%B2%88%E5%8C%97%E6%96%B0%E5%8C%BA__1.5_year)
+        * 属于项目 ⊂ 👉 [本科活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
+    * 包含项目 ⊋ 👉 [「手写书籍」数字化工程](https://gitee.com/ChenZhu-Xie/3_books_with_cpp)
 
 ## 介绍
-* 高中时期 的 微机课 大作业
-* 用 **FrontPage** 做的
-    * 限于当时的时间和技术，只能做到该程度，效果上可能差强人意
-    * 但点子上，有双向链接、解谜/密、修改游戏文件、太空探索、精选背景音乐等，『彷徨』与『呐喊』的影子
+* 该仓库，可视为一系列 repos 或其子目录的集合目录（中转站/时间线 Tag），储存了 15~18 岁的我 的一些「自由意志」，这些思想活动「在另一些库中」被「详细描述」，并且有些「延续到大学本科」阶段。
+    1. 「详细描述」⊂ 👉 [脱机网页们](https://gitee.com/ChenZhu-Xie/offline_web_pages)
+    2. 「详细描述」⊂ 👉 [rulesmd.ini](https://gitee.com/ChenZhu-Xie/rulesmd.ini)
+    3. 「延续到大学本科」≻ 👉 [本科活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)「子目录」[3D 打印 ETP_logo](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/10__5.1__Off-Campus_Internships/1__3.1__%E6%B2%88%E5%8C%97%E6%96%B0%E5%8C%BA__1.5_year)
+    4. 「延续到大学本科」≻ 👉 [「手写书籍」数字化工程](https://gitee.com/ChenZhu-Xie/3_books_with_cpp)
 
-<!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/entrance.png "『隐藏入口 / 传送门』页面") -->
-![fig](https://gitee.com/ChenZhu-Xie/offline_web_pages/raw/master/img/entrance.png "『主入口』页面")
-
-## 实施
-1. 从 “主页（我的小网站入口）.lnk” 进入 Home。  
-2. 自由探索 :point_right: 直到获得密码 :point_right: 进入隐藏网页。
-    * 解开谜题！否则你将永远困在：这片虚无之地！
-3. PS: 由于年代久远 (2014_05)，页面音乐可能无法播放，  
-    * 且背景图片尺寸无法自适应浏览器窗口大小。
+<!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/7_books_waiting_to_be_digitalized.png "7 本「等待被数字化」的书") -->
+![fig](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/raw/master/img/7_books_waiting_to_be_digitalized.png "7 本「等待被数字化」的书")
 
 ## 历史
-* 该项目 👉 [脱机个人网页们](https://gitee.com/ChenZhu-Xie/1A2B_3C_4A5B)
-    * （个人时间）由 16 岁小谢
-    * （世界时间）在 2014 年 的 
+* 该项目 👉 [高中的个人活动](https://gitee.com/ChenZhu-Xie/senior-high-school_activities)
+    * （个人时间）由 15~18 岁小谢
+    * （世界时间）在 2013~2016 年的 
     * （个人阶段）高中时期 搭建
 
 <!-- ## 软件架构
