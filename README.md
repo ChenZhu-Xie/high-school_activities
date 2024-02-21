@@ -7,7 +7,7 @@
     * Contains project ⊃ 👉 [offline personal web_pages](https://github.com/ChenZhu-Xie/offline_web_pages)
     * Contains project ⊃ 👉 [rulesmd.ini](https://github.com/ChenZhu-Xie/rulesmd.ini)
     * Contains project ⊋ 👉 [3D-printed ETP_logo](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/10__5.1__Off-Campus_Internships/1__3.1__%E6%B2%88%E5%8C%97%E6%96%B0%E5%8C%BA__1.5_year)
-        * Subseteq project ⊂ 👉 [undergraduate activities](https://github.com/ChenZhu-Xie/undergraduate_activities)
+        * Subseteq career ⊂ 👉 [undergraduate activities](https://github.com/ChenZhu-Xie/undergraduate_activities)
     * Contains project ⊋ 👉[「Handwritten Book」Digitization Project](https://github.com/ChenZhu-Xie/3_books_with_cpp)
         * Belongs to ⊂ [undergradutate creations](https://github.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations)
             * Corresponding career ⊂ [undergraduate activities](https://github.com/ChenZhu-Xie/undergraduate_activities)

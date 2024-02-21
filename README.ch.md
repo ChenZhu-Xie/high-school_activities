@@ -8,7 +8,7 @@
     * 包含项目 ⊃ 👉 [脱机网页们](https://gitee.com/ChenZhu-Xie/offline_web_pages)
     * 包含项目 ⊃ 👉 [rulesmd.ini](https://gitee.com/ChenZhu-Xie/rulesmd.ini)
     * 包含项目 ⊋ 👉 [3D 打印 ETP_logo](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/10__5.1__Off-Campus_Internships/1__3.1__%E6%B2%88%E5%8C%97%E6%96%B0%E5%8C%BA__1.5_year)
-        * 属于项目 ⊂ 👉 [本科 活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
+        * 属于生涯 ⊂ 👉 [本科 活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
     * 包含项目 ⊋ 👉[手写书籍 数字化工程](https://gitee.com/ChenZhu-Xie/3_books_with_cpp)
         * 内容来自 ⊂ [本科 创造](https://gitee.com/ChenZhu-Xie/undergraduate_activities/tree/master/06__3.1__Self_Creations)
             * 属于生涯 ⊂ [本科 活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
