@@ -13,7 +13,7 @@
             * Corresponding career ⊂ [undergraduate activities](https://github.com/ChenZhu-Xie/undergraduate_activities)
 * 中文「自述文档」㊥ 👉 [高中 活动](https://gitee.com/ChenZhu-Xie/senior-high-school_activities)
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/IMG_1376.jpg "Me and my Roommate")
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/我和我的舍友.JPG "Me and my Roommate")
 
 ## Description
 * This repository can be seen as a collection directory (hub/timeline tag) of a series of repos or their subdirectories, storing some of my "free will" from the ages of 16 to 18, which are「described in detail」in other repositories, and some are「extended to the undergraduate stage」.
