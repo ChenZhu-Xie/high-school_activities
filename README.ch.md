@@ -14,6 +14,9 @@
             * 属于生涯 ⊂ [本科 活动](https://gitee.com/ChenZhu-Xie/undergraduate_activities)
 * English「README」ⓔ 👉[「Personal activities」during「senior high school」](https://github.com/ChenZhu-Xie/senior-high-school_activities)
 
+<!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/IMG_1376.jpg "Me and my Roommate") -->
+![fig](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/raw/master/img/IMG_1376.jpg "我和我的舍友")
+
 ## 介绍
 * 该仓库，可视为一系列 repos 或其子目录的集合目录（中转站/时间线 Tag），储存了 16~18 岁的我 的一些「自由意志」，这些思想活动「在另一些库中」被「详细描述」，并且有些「延续到大学本科」阶段。
     1. 「详细描述」⊂ 👉 [脱机网页们](https://gitee.com/ChenZhu-Xie/offline_web_pages)
