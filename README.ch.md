@@ -1,5 +1,6 @@
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/logo.jpg "『主入口』页面") -->
-![fig](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/raw/master/img/logo.jpg "高中毕业「T-shirt」背面：「ETP project」logo")
+<!-- ![fig](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/raw/master/img/logo.jpg "我的 高中毕业「T-shirt」背面：「ETP project」logo") -->
+[![fig](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/raw/master/img/logo.png "我的 高中毕业「T-shirt」背面：「ETP project」logo - Gitee 项目")](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/tree/master/3__6.1__ETP_3D_logo_project__3.0_year "我的 高中毕业「T-shirt」背面：「ETP project」logo - Gitee 项目")
 
 # 高中 个人活动
 
@@ -15,7 +16,8 @@
 * English「README」ⓔ 👉[「Personal activities」during「senior high school」](https://github.com/ChenZhu-Xie/senior-high-school_activities)
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/我和我的舍友.JPG "Me and my Roommate") -->
-![fig](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/raw/master/img/我和我的舍友.JPG "我和我的舍友")
+<!-- ![fig](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/raw/master/img/我和我的舍友.JPG "我和我的舍友") -->
+[![fig](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/raw/master/img/我和我的舍友.png "我和我的舍友.png")](https://github.com/ChenZhu-Xie/senior-high-school_activities/tree/master/photos/Roomate_photos__that_includes_me "我和我的舍友.png")
 
 ## 介绍
 * 该仓库，可视为一系列 repos 或其子目录的集合目录（中转站/时间线 Tag），储存了 16~18 岁的我 的一些「自由意志」，这些思想活动「在另一些库中」被「详细描述」，并且有些「延续到大学本科」阶段。
@@ -26,7 +28,8 @@
     4. 「延续到大学本科」≻ 👉[手写书籍 数字化工程](https://gitee.com/ChenZhu-Xie/3_books_with_cpp)
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/7_books_waiting_to_be_digitalized.jpg "7 本「等待被数字化」的书") -->
-![fig](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/raw/master/img/7_books_waiting_to_be_digitalized.jpg "7 本「等待被数字化」的书")
+<!-- ![fig](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/raw/master/img/7_books_waiting_to_be_digitalized.jpg "我的 7 本「等待被数字化」的书") -->
+[![fig](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/raw/master/img/7_books_waiting_to_be_digitalized.png "我的 7 本「等待被数字化」的书 - Gitee 项目")](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/tree/master/4__6.2__Books_digitalization_project__3.0_year "我的 7 本「等待被数字化」的书 - Gitee 项目")
 
 ## 历史
 * 该项目 👉 [高中 活动](https://gitee.com/ChenZhu-Xie/senior-high-school_activities)

@@ -1,4 +1,5 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/logo.jpg "Back of a high school graduation「T-shirt」：「ETP project」logo")
+<!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/logo.jpg "My Back of a high school graduation「T-shirt」:「ETP project」logo - Github project") -->
+[![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/logo.png "My Back of a high school graduation「T-shirt」:「ETP project」logo - Github project")](https://github.com/ChenZhu-Xie/senior-high-school_activities/tree/master/3__6.1__ETP_3D_logo_project__3.0_year "My Back of a high school graduation「T-shirt」:「ETP project」logo - Github project")
 
 # 「Personal activities」during「senior high school」
 
@@ -13,7 +14,7 @@
             * Corresponding career ⊂ [undergraduate activities](https://github.com/ChenZhu-Xie/undergraduate_activities)
 * 中文「自述文档」㊥ 👉 [高中 活动](https://gitee.com/ChenZhu-Xie/senior-high-school_activities)
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/我和我的舍友.JPG "Me and my Roommate")
+[![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/我和我的舍友.png "Me and my Roommate.png")](https://github.com/ChenZhu-Xie/senior-high-school_activities/tree/master/photos/Roomate_photos__that_includes_me "Me and my Roommate.png")
 
 ## Description
 * This repository can be seen as a collection directory (hub/timeline tag) of a series of repos or their subdirectories, storing some of my "free will" from the ages of 16 to 18, which are「described in detail」in other repositories, and some are「extended to the undergraduate stage」.
@@ -23,7 +24,8 @@
         * Subseteq project ⊂ 👉 [undergraduate activities](https://github.com/ChenZhu-Xie/undergraduate_activities)
     4. 「extended to the undergraduate stage」≻👉 [「Handwritten Book」Digitization Project](https://github.com/ChenZhu-Xie/3_books_with_cpp)
 
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/7_books_waiting_to_be_digitalized.jpg "7 books「waiting to be digitized」")
+<!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/7_books_waiting_to_be_digitalized.jpg "My 7 books「waiting to be digitized」- Github project") -->
+[![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/7_books_waiting_to_be_digitalized.png "My 7 books「waiting to be digitized」- GitHub project")](https://github.com/ChenZhu-Xie/senior-high-school_activities/tree/master/4__6.2__Books_digitalization_project__3.0_year "My 7 books「waiting to be digitized」- GitHub project")
 
 ## History
 * This repo 👉 [「Personal activities」during「senior high school」](https://github.com/ChenZhu-Xie/senior-high-school_activities) was built
