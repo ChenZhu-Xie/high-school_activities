@@ -16,6 +16,8 @@
 
 [![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/我和我的舍友.png "Me and my Roommate.png")](https://github.com/ChenZhu-Xie/senior-high-school_activities/tree/master/photos/Roomate_photos__that_includes_me "Me and my Roommate.png")
 
+[![fig](https://raw.githubusercontent.com/ChenZhu-Xie/rulesmd.ini/master/img/cover_paperclip.png "The『effect』of modified『rulesmo.ini』in『Mental Omega 3.3.6』.ini")](https://github.com/ChenZhu-Xie/rulesmd.ini "The『effect』of modified『rulesmo.ini』in『Mental Omega 3.3.6』.ini")
+
 ## Description
 * This repository can be seen as a collection directory (hub/timeline tag) of a series of repos or their subdirectories, storing some of my "free will" from the ages of 16 to 18, which are「described in detail」in other repositories, and some are「extended to the undergraduate stage」.
     1. 「described in detail」⊂ 👉 [offline personal web_pages](https://github.com/ChenZhu-Xie/offline_web_pages)
@@ -33,6 +35,7 @@
     * (Personal stage) during high school
     * (World time) in 2013~2016
 
+[![fig](https://raw.githubusercontent.com/ChenZhu-Xie/offline_web_pages/master/img/webpage_entrance.png "『Portal/Hidden entrance』page.html")](https://github.com/ChenZhu-Xie/offline_web_pages "『Portal/Hidden entrance』page.html")
 
 <!-- ## Software Architecture
 Software architecture description

@@ -17,7 +17,9 @@
 
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/我和我的舍友.JPG "Me and my Roommate") -->
 <!-- ![fig](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/raw/master/img/我和我的舍友.JPG "我和我的舍友") -->
-[![fig](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/raw/master/img/我和我的舍友.png "我和我的舍友.png")](https://github.com/ChenZhu-Xie/senior-high-school_activities/tree/master/photos/Roomate_photos__that_includes_me "我和我的舍友.png")
+[![fig](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/raw/master/img/我和我的舍友.png "我和我的舍友.png")](https://gitee.com/ChenZhu-Xie/senior-high-school_activities/tree/master/photos/Roomate_photos__that_includes_me "我和我的舍友.png")
+
+[![fig](https://gitee.com/ChenZhu-Xie/rulesmd.ini/raw/master/img/cover_paperclip.png "rulesmo.ini - Gitee 仓库")](https://gitee.com/ChenZhu-Xie/rulesmd.ini "rulesmo.ini - Gitee 仓库")
 
 ## 介绍
 * 该仓库，可视为一系列 repos 或其子目录的集合目录（中转站/时间线 Tag），储存了 16~18 岁的我 的一些「自由意志」，这些思想活动「在另一些库中」被「详细描述」，并且有些「延续到大学本科」阶段。
@@ -36,6 +38,8 @@
     * （个人时间）由 16~18 岁小谢
     * （世界时间）在 2013~2016 年的 
     * （个人阶段）高中时期 构建
+
+[![fig](https://gitee.com/ChenZhu-Xie/offline_web_pages/raw/master/img/webpage_entrance.png "静态网页们 - Gitee 仓库")](https://gitee.com/ChenZhu-Xie/offline_web_pages "静态网页们 - Gitee 仓库")
 
 <!-- ## 软件架构
 软件架构说明
