@@ -34,7 +34,6 @@
     * (World time) in 2013~2016
 
 
-
 <!-- ## Software Architecture
 Software architecture description
 
