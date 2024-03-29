@@ -37,6 +37,8 @@
 
 [![fig](https://raw.githubusercontent.com/ChenZhu-Xie/senior-high-school_activities/master/img/webpage_entrance.png "『Portal/Hidden entrance』page.html")](https://github.com/ChenZhu-Xie/offline_web_pages "『Portal/Hidden entrance』page.html")
 
+<!-- ts -->
+
 <!-- ## Software Architecture
 Software architecture description
 
